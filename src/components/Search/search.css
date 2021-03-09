@@ -1,0 +1,8 @@
+.search_btn {
+  position: absolute;
+  top: 0;
+  right: 0.5rem;
+}
+label:not(:last-child) {
+  margin-right: 1rem;
+}
